@@ -1,4 +1,5 @@
 # Goal
+- To understand the basic Pytorch training pipeline and apply it to simple NLP tasks
 
 # Learning Log
 
