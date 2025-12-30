@@ -1,1 +1,3 @@
-# pytorch
+# Goal
+
+# Learning Log
