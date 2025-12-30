@@ -5,7 +5,7 @@
 
 ## Day01
 - Learned basic tensor operations
-- Checked how autoograd computes gradients
+- Checked how autograd computes gradients
 
 ## Day02
 - Implemented a simple nn.Module
