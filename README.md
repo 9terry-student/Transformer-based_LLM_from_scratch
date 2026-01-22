@@ -1,7 +1,7 @@
 1. Project Overview
 This project implements a Transformer-based autoregressive language model from scratch using PyTorch.
 
-The model includes:
+  The model includes:
 - token embedding
 - positional encoding
 - masked multi-head self-attention
